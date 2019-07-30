@@ -1,6 +1,7 @@
 package com.fsw.lis.springbootlis.pattern.strategy.springbootStrategy;
 
 import com.fsw.lis.springbootlis.utils.BeanTool;
+import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
